@@ -1,4 +1,4 @@
-# Python `@classmethod` Decorator: Notes
+# Python `@classmethod` Decorator
 
 ## What is `@classmethod`?
 
